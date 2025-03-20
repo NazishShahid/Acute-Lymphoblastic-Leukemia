@@ -1,0 +1,3 @@
+# Acute-Lymphoblastic-Leukemia
+Febrile-Episode Survival Period for Acute Lymphoblastic Leukemia Patients
+This study evaluates the first febrile-interlude survival period in acute lymphoblastic leukemia (ALL) patients with B-cell and T-cell conditions using Kaplan-Meier and Weibull distribution estimates. An ML classification model with SVM is employed to assess febrile resistance timelines for male and female patients. Findings indicate that female patients are 2.1608 times more likely to experience an early febrile episode, typically around Day 26, necessitating a stricter treatment protocol to prevent infection and disease progression.
